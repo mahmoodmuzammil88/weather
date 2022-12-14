@@ -1,18 +1,20 @@
-/* .container { */
-  /* position: relative; */
-  /* max-width: 800px; Maximum width */
-  /* margin: 0 auto; Center it */
-/* } */
 .container  {
   position: absolute !important; /* Position the background text */
   bottom: 0; /* At the bottom. Use top:0 to append it to the top */
  right: 0%;
+ top: 1cm;
  left: 0%;
-  /* background: rgb(0, 0, 0); Fallback color */
-  /* background: rgba(0, 0, 0, 0.5); Black background with 0.5 opacity */
-  /* color: #f1f1f1; Grey text */
-  /* width: 100%; Full width */
-  /* padding: 20px; Some padding */
 margin: auto
 ;
+}
+.card-body{
+  /* border-radius: 25px; */
+  background-color: black;color: aliceblue;
+}
+
+body{
+height: 100vh;
+}
+table, th, td {
+  border: 1px solid rgb(39, 98, 153);
 }
