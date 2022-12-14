@@ -12,7 +12,7 @@ margin: auto
   background-color: black;color: aliceblue;
 }
 
-body{
+.body{
 height: 100vh;
 }
 table, th, td {
