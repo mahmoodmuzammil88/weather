@@ -150,7 +150,7 @@ setTimeout(()=>{
 
 },2000)
 setTimeout(()=>{
-  getWeather3("New York");
+  getWeather3("Riyadh");
 
 },3000)
 setTimeout(()=>{
